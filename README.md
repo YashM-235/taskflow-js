@@ -28,7 +28,7 @@ TaskFlow is a clean, responsive task management application built using HTML, CS
 
 1. Clone the repository:
    ```bash
-   https://github.com/Yash-et/taskflow-js
+   https://github.com/YashM-235/taskflow-js
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
