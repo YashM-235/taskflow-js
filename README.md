@@ -37,7 +37,7 @@ No additional dependencies or build tools are required.
 
 ## Project Status
 
-**Version 1.0 – Working Prototype Complete**
+**Version 1.0 - Working Prototype Complete**
 
 The initial TaskFlow prototype is complete, with core task management functionality, persistence, responsive design, and UI refinements implemented.
 
@@ -55,7 +55,7 @@ The initial TaskFlow prototype is complete, with core task management functional
 - Randomized pastel backgrounds
 - Final functional and responsive testing
 
-## Upcoming – TaskFlow v2.0
+## Upcoming - TaskFlow v2.0
 
 ### Personalization and Themes
 
